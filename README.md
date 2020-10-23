@@ -16,8 +16,11 @@ Link: http://shirish.pythonanywhere.com.
 Username: instructor
 Password: Mavericks
 ```
+
 # References
 ```
 https://colorlib.com/wp/template/fashi/
+Licence: CC BY 3.0
+Credits: Images from Unsplash
 ```
 
