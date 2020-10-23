@@ -33,7 +33,4 @@ urlpatterns = [
     path('p_list/', ProductViews.product_list, name='product_list'),
     path('p_detail/', ProductViews.product_detail, name='product_detail'),
 
-]
-
-if True:
-    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
