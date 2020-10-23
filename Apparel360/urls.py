@@ -35,5 +35,5 @@ urlpatterns = [
 
 ]
 
-if settings.DEBUG:  # new
+if settings.img:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
