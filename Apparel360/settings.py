@@ -23,7 +23,6 @@ SECRET_KEY = '8b(szl957wdn+beh^l9176c3=&f@ugs#6p4zl47&kk$6_&u$(8'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-img = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
