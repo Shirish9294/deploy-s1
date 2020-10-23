@@ -23,6 +23,7 @@ SECRET_KEY = '8b(szl957wdn+beh^l9176c3=&f@ugs#6p4zl47&kk$6_&u$(8'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
+img = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
@@ -120,6 +121,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+MEDIA_URL = '/images/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'images')
 
 SITE_ID = 1
 CKEDITOR_JQUERY_URL = 'https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'
