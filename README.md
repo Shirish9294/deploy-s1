@@ -3,16 +3,16 @@
 This code is for the E-Commerce website called Apparel 360. 
 ```
 Group:
-Shirish Srinivasa.
-Diksha Gaonkar.
-Rashmi Chataut.
-Carson Crockett.
+Shirish Srinivasa
+Diksha Gaonkar
+Rashmi Chataut
+Carson Crockett
 ```
 
 # Link and Login info
 
 Link: http://shirish.pythonanywhere.com.
 ```
-Username: instructor.
-Password: Mavericks.
+Username: instructor
+Password: Mavericks
 ```
